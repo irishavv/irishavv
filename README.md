@@ -17,6 +17,7 @@ I am a passionate **Data Analyst** with a strong foundation in data analysis, vi
 - **LinkedIn**: https://www.linkedin.com/in/irishav/
 - **Email**: irishav.ds@gmail.com
 - **Instagram**: https://www.instagram.com/i_rishavv/
+- **LeetCode**: https://leetcode.com/u/i_rishavv/
 
 **Student of MCA in Data Analytics**
 
