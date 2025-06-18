@@ -56,9 +56,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=irishavv&theme=onedark&no-frame=true&title=Commit,Repo,Followers,PR,Issues,Stars" alt="GitHub Trophies" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irishavv/irishavv/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
 
 ---
 
