@@ -1,4 +1,4 @@
-<!-- 🔹 Animated Typing Banner -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Rishav+Kumar;Data+Analyst+%7C+Developer;Data+Explorer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishavv&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irishavv&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=irishavv&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=irishavv&theme=onedark&no-frame=true&title=Commit,Repo,Followers,PR,Issues,Stars" alt="GitHub Trophies" />
