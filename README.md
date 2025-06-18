@@ -1,6 +1,6 @@
-<!-- Profile Banner (you can create a custom banner at maketext.io or similar sites) -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rishav+Kumar ;Data+Analyst+%7C+Developer;Data+Explorer+%F0%9F%9A%80; Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Rishav+Kumar;Data+Analyst+%7C+Developer;Data+Explorer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,11 +15,13 @@
 
 ## 🛡️ Badges & Achievements  
 
-![Profile Views](https://komarev.com/ghpvc/?username=irishavv&style=flat-square&color=00ffee)  
-![GitHub followers](https://img.shields.io/github/followers/irishavv?label=Followers&style=flat-square&color=00ffee)  
-![Repos](https://img.shields.io/badge/Repos-High%20Creator-00ffee?style=flat-square)  
-![Commits](https://img.shields.io/badge/Commits-Middle%20Committer-00ffee?style=flat-square)  
-![Pull Requests](https://img.shields.io/badge/PRs-First%20Pull-00ffee?style=flat-square)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irishavv&style=flat-square&color=00ffee" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/irishavv?label=Followers&style=flat-square&color=00ffee" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-High%20Creator-00ffee?style=flat-square" alt="Repos" />
+  <img src="https://img.shields.io/badge/Commits-Middle%20Committer-00ffee?style=flat-square" alt="Commits" />
+  <img src="https://img.shields.io/badge/PRs-First%20Pull-00ffee?style=flat-square" alt="Pull Requests" />
+</p>
 
 ---
 
@@ -50,6 +52,14 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=irishavv&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=irishavv&theme=onedark&no-frame=true&title=Commit,Repo,Followers,PR,Issues,Stars" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/irishavv/irishavv/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
