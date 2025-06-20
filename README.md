@@ -7,7 +7,7 @@
 
 ## 👾 Welcome to My GitHub Universe  
 
-💻 I’m **Rishav Kumar** — a passionate **Data Analyst** and aspiring **developer-hacker** who loves exploring **data galaxies** and building solutions with **code magic**!  
+💻 I’m **Rishav Kumar** — a passionate **Data Analyst** and aspiring **developer** who loves exploring **data galaxies** and building solutions with **code magic**!  
 
 ⚡ I thrive on transforming raw, chaotic data into powerful, actionable insights. My projects blend **data science**, **machine learning**, and **development** — always with a futuristic edge.  
 
