@@ -34,11 +34,31 @@
 
 ---
 
-## 🛠️ Skills  
+## 🚀 Languages and Tools:
 
-| 💻 Languages | 📊 Data & ML | 📈 Visualization | 🗄 Databases | ⚙ Tools |
-|--------------|--------------|-----------------|--------------|----------|
-| ![Python](https://img.shields.io/badge/-Python-00ffee?style=flat&logo=python&logoColor=black) ![Java](https://img.shields.io/badge/-Java-00ffee?style=flat&logo=java&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-00ffee?style=flat&logo=mysql&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-00ffee?style=flat&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-00ffee?style=flat&logo=css3&logoColor=black) | ![Pandas](https://img.shields.io/badge/-Pandas-00ffee?style=flat&logo=pandas&logoColor=black) ![NumPy](https://img.shields.io/badge/-NumPy-00ffee?style=flat&logo=numpy&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/-Sklearn-00ffee?style=flat&logo=scikit-learn&logoColor=black) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-00ffee?style=flat&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-00ffee?style=flat) ![Tableau](https://img.shields.io/badge/-Tableau-00ffee?style=flat&logo=tableau&logoColor=black) ![Power BI](https://img.shields.io/badge/-PowerBI-00ffee?style=flat&logo=powerbi&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-00ffee?style=flat&logo=mysql&logoColor=black) | ![Git](https://img.shields.io/badge/-Git-00ffee?style=flat&logo=git&logoColor=black) ![VS Code](https://img.shields.io/badge/-VSCode-00ffee?style=flat&logo=visual-studio-code&logoColor=black) ![Jupyter](https://img.shields.io/badge/-Jupyter-00ffee?style=flat&logo=jupyter&logoColor=black) ![Colab](https://img.shields.io/badge/-Colab-00ffee?style=flat&logo=googlecolab&logoColor=black) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-00ffee?style=flat&logo=intellijidea&logoColor=black) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge&logo=python&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
