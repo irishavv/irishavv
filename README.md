@@ -61,13 +61,7 @@
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
-
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
-<h3 align="center">Data Analyst | Developer | ML Enthusiast 🚀</h3>
-
----
+----
 
 ## ⚡ GitHub Stats  
 
