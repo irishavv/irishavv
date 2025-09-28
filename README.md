@@ -63,37 +63,87 @@
 
 ---
 
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
+<h3 align="center">Data Analyst | Developer | ML Enthusiast 🚀</h3>
+
+---
+
 ## ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irishavv&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irishavv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishavv&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishavv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=irishavv&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=irishavv&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irishavv&theme=onedark&no-frame=true&title=Commit,Repo,Followers,PR,Issues,Stars" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irishavv&theme=onedark&no-frame=true&row=1&column=6&title=Commit,Repo,Followers,PR,Issues,Stars" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📂 What You’ll Find  
+## 🛠 Tech Stack  
 
-🚀 **AI/ML projects** — predictive models, data pipelines, automation scripts  
-🌌 **Web experiments** — lightweight apps, dashboards, tools  
-📈 **Visualizations** — dynamic charts & interactive dashboards  
+<p align="center">
+  
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<!-- Data Analytics -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+🚀 **AI/ML Projects** – predictive models, automation scripts, analytics  
+🌌 **Web Experiments** – lightweight apps, dashboards, tools  
+📈 **Visualizations** – dynamic charts & interactive dashboards  
+
+Check out my pinned repos below ⬇️
 
 ---
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ffee?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/irishavv/)  
-[![Email](https://img.shields.io/badge/-Email-00ffee?style=flat-square&logo=gmail&logoColor=black)](mailto:irishav.ds@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-00ffee?style=flat-square&logo=instagram&logoColor=black)](https://www.instagram.com/i_rishavv/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-00ffee?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/i_rishavv/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/irishavv/"><img src="https://img.shields.io/badge/-LinkedIn-00ffee?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:irishav.ds@gmail.com"><img src="https://img.shields.io/badge/-Email-00ffee?style=flat-square&logo=gmail&logoColor=black" /></a>
+  <a href="https://www.instagram.com/i_rishavv/"><img src="https://img.shields.io/badge/-Instagram-00ffee?style=flat-square&logo=instagram&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/i_rishavv/"><img src="https://img.shields.io/badge/-LeetCode-00ffee?style=flat-square&logo=leetcode&logoColor=black" /></a>
+</p>
 
 ---
 
@@ -108,3 +158,4 @@
 ## 🙌 Thanks for Visiting!  
 
 💬 *Explore, star, fork — let’s innovate together!*  
+
